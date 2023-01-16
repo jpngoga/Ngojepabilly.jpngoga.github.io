@@ -41,6 +41,10 @@ body {
     line-height: 1.7;
     overflow-x: hidden;
 }
+.mCS_img_loaded{
+    border-radius: 50%;
+}
+
 
 img {
     max-width: 100%;
